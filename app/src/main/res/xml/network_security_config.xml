@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config>
+        <domain includeSubdomains="true">cbf43926.strelkapay.ru</domain>
+        <pin-set expiration="2025-04-16">
+            <pin digest="SHA-256">5X0HpukeHlK1TmnKoT/yohFYRl+1VWFmkxzmclt3AyE=</pin>
+        </pin-set>
+    </domain-config>
+</network-security-config>
